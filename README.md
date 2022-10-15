@@ -14,7 +14,7 @@
 
 ## Bot
  - [] Ajustar o fluxo de conversa com o bot obviamente
- - [] Adicionar integração via CPQD
+ - [X] Adicionar integração via CPQD
  - [] TTS
  
 ## Outros
