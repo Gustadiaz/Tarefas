@@ -2,6 +2,8 @@
 
 ## Backend
   - [X] Colocar algumas clínicas psicólogas públicas mesmo só de exemplo pra deixar lá que o usuário poderá contatar 
+  - [X] Gerar o Maven
+  - [X] Gerar o Build no Docker
  
 ## Mobile
  - [] Fazer uma customização básica pro bot (pq isso a gente tinha prometido que ia ter)
@@ -17,3 +19,5 @@
  
 ## Outros
  - [] Realizar deploy do que for necessário
+ - [] Criar o custo da aplicação
+ - [] Criar o plano de marketing e divulgação
