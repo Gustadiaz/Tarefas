@@ -1,7 +1,7 @@
 # Tarefas a serem realizadas para melhoria do MVP
 
 ## Backend
-  - [X] Colocar algumas clínicas psicólogas públicas mesmo só de exemplo pra deixar lá que o usuário poderá contatar (Gustavo)
+  - [X] Colocar algumas clínicas psicólogas públicas mesmo só de exemplo pra deixar lá que o usuário poderá contatar 
  
 ## Mobile
  - [] Fazer uma customização básica pro bot (pq isso a gente tinha prometido que ia ter)
