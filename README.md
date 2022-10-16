@@ -19,5 +19,5 @@
  
 ## Outros
  - [] Realizar deploy do que for necessário
- - [] Criar o custo da aplicação
- - [] Criar o plano de marketing e divulgação
+ - [X] Criar o custo da aplicação
+ - [X] Criar o plano de marketing e divulgação
